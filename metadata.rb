@@ -1,6 +1,6 @@
 name 'docker'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'alexander harlass'
+maintainer_email 'mail@alexander-harlass.de'
 license 'all_rights'
 description 'Installs/Configures docker'
 long_description 'Installs/Configures docker'
